@@ -1,1 +1,1 @@
-<script>window.open("https://www.doyensec.com")</script>
+<script>window.open("https://evil.com")</script>
