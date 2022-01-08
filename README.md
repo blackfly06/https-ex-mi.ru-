@@ -1,1 +1,1 @@
-<iframe onload="setTimeout(/alert(26)/.source)"></iframe>
+<script>window.open("https://www.doyensec.com")</script>
