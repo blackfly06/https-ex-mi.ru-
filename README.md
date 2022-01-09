@@ -4,7 +4,6 @@ Subdomain Takeover
 
 
 
-<script>name = location.hash.substring(1);
-        document.write("<b>Hey "+unescape(name)+"! Nice to meet you</b>");</script>
+<script>window.open("https://evil.com")</script>
 
 
