@@ -4,5 +4,5 @@ Subdomain Takeover
 
 
 
-<script>location.href="https://evil.com"</script>
+<script>alert(1)</script>
 
