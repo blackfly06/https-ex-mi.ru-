@@ -4,6 +4,5 @@ Subdomain Takeover
 
 
 
-<script>window.open("https://evil.com")</script>
-
+<script>location.href="https://evil.com"</script>
 
